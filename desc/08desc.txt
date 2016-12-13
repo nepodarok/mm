@@ -1,0 +1,44 @@
+Testing MM Connect: # Mercedes me App # Fernabfrage Fahrzeugstatus
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+OK: 'Für die Vernetzung mit Ihrem Mercedes-Benz.' has been found in 'mm connect'
+OK: 'Sie finden diese in den Nutzungsbedingungen im Abschnitt „Mercedes me connect Diensteübersicht“.' has been found in 'mm connect'
+OK: 'Mercedes me App' has been found in 'mm connect'
+click on Mercedes me App
+title is Die Mercedes me App >> Mercedes me Portal
+OK: Element 'mm_app' include 'Die Mercedes me App.' by selector 'tag_name'
+OK: In 'mm_app' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/Keyvisual_mercedes_me_App.jpg'
+OK: In 'mm_app' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/Keyvisual_mercedes_me_App.jpg'
+OK: Element 'mm_app' include 'iTunes' by selector 'link_text'
+OK: Element 'mm_app' include 'Google Play' by selector 'link_text'
+OK: 'Mit wenigen Swipes ans Ziel.' has been found in 'mm_app'
+OK: 'App Store-Links' has been found in 'mm_app'
+OK: 'Stets griffbereit – Das Mercedes me Dashboard auf einen Blick.' has been found in 'mm_app'
+Click on 'iTunes'
+title is '„Mercedes me“ im App Store'
+Click on 'Google Play'
+title is 'Приложения на Google Play – Mercedes me'
+zurück
+OK: 'Fernabfrage Fahrzeugstatus' has been found in 'mm connect'
+click on Fernabfrage Fahrzeugstatus
+title is Fernabfrage Fahrzeugstatus >> Mercedes me Portal
+OK: Element 'mm_ff' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: In 'mm_ff' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Fahrzeugstatus.jpg'
+OK: In 'mm_ff' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Fahrzeugstatus.jpg'
+OK: Element 'mm_ff' include 'Häufig gestellte Fragen' by selector 'link_text'
+OK: Element 'mm_ff' include 'Programmierung Standheizung' by selector 'link_text'
+OK: Element 'mm_ff' include 'Türfernschließung und -entriegelung' by selector 'link_text'
+OK: Element 'mm_ff' include 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup' by selector 'link_text'
+OK: 'Fernabfrage Fahrzeugstatus.' has been found in 'mm_ff'
+OK: 'Wissen was anliegt.' has been found in 'mm_ff'
+OK: 'Die Vorteile im Überblick:' has been found in 'mm_ff'
+Click on 'Häufig gestellte Fragen'
+title is 'Häufig gestellte Fragen >> Mercedes me Portal'
+Click on 'Programmierung Standheizung'
+title is 'Programmierung Standheizung >> Mercedes me Portal'
+Click on 'Türfernschließung und -entriegelung'
+title is 'Türfernschließung und -entriegelung >> Mercedes me Portal'
+Click on 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup'
+title is 'Nutzungsbedingungen >> Mercedes me Portal'

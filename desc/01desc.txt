@@ -1,0 +1,17 @@
+Check out presence of layouts.
+
+By the end of test, you can see next result:
+
+OK: Cookies has been cleared
+OK: Layout witn notification about new cookies has been found, test OK
+OK: find top menu
+OK: find bottom menu
+OK: Anbieter/Datenschutz's layout has been found
+OK: Registrieren's layout has been found
+OK: Anmelden's layout has been found
+OK: Provider's layout has been found
+OK: Cookies's layout has been found
+OK: Privacy Statement's layout has been found
+OK: Legal Notice's layout has been found
+OK: © 2016 Daimler AG. All Rights reserved. has been found in main
+OK: Mercedes me Portal

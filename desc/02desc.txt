@@ -1,0 +1,28 @@
+Deeply testing all of pop ups
+
+By the end of test, you can see next result:
+
+OK: Cookies has been cleared
+OK: Element 'Cookies layout' include 'Use of cookies' by selector 'tag_name'
+OK: Element 'Cookies layout' include 'Find out more about our cookies and how we use them.' by selector 'link_text'
+OK: Element 'Find out more about our cookies...' include 'Cookies' by selector 'tag_name'
+OK: Element 'Find out more about our cookies...' include 'Information about deactivating local shared objects' by selector 'tag_name'
+OK: Element 'Provider' include 'Provider/Data privacy' by selector 'tag_name'
+OK: Element 'Provider' include 'Represented by the Board of Management:' by selector 'tag_name'
+OK: 'Chairman of the Supervisory Board:' has been found in 'Provider'
+OK: Element 'Cookies' include 'Information about deactivating local shared objects' by selector 'link_text'
+OK: 'We use the following cookies on our website:' has been found in 'Cookies'
+OK: 'Daimler data protection regulations' has been found in 'Data privacy'
+OK: 'Collection and processing of personal data' has been found in 'Data privacy'
+OK: 'Social Plugins' has been found in 'Data privacy'
+OK: 'Freedom of Information' has been found in 'Data privacy'
+OK: 'Products and prices' has been found in 'Legal notice'
+OK: 'Cautions regarding forward-looking statements' has been found in 'Legal notice'
+OK: 'Liability' has been found in 'Legal notice'
+Start testing pop ups
+OK: Element 'Provider' include 'Provider.' by selector 'tag_name'
+OK: Element 'Provider' include 'Represented by the Board of Management:' by selector 'tag_name'
+OK: Element 'Privacy Statement' include 'Privacy Statement.' by selector 'tag_name'
+OK: Element 'Privacy Statement' include 'Collection and processing of personal data' by selector 'tag_name'
+OK: Element 'Privacy Statement' include 'Legal Notice.' by selector 'tag_name'
+OK: Element 'Privacy Statement' include 'Copyrights' by selector 'tag_name'

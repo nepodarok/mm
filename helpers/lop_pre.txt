@@ -1,0 +1,42 @@
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+OK: Element 'Cookies' include 'Use of cookies' by selector 'tag_name'
+find and click 'Deutschland - Deutsch'
+Title is Mercedes me Portal
+OK: Element 'Cookies' include 'Verwendung von Cookies' by selector 'tag_name'
+find and close cookies notification
+find and clck 'Register' button
+OK: 'Registrierung' has been found in 'Registrierung'
+Start testing register
+OK: puts invalid data for catching validate rules
+OK: 'Bitte beachten Sie die Fehlermeldungen bei den rot markierten Feldern und füllen Sie die entsprechenden Felder korrekt aus.' has been found in 'Register'
+OK: 'Bitte treffen Sie eine Auswahl' has been found in 'Form of adress'
+OK: 'Pflichtfeld' has been found in 'Register'
+OK: 'Bitte bestätigen Sie, dass Sie die rechtlichen Hinweise gelesen haben und diese akzeptieren.' has been found in 'Register'
+finish testing Register
+find and click Log In button
+Start testing Log in
+OK: puts invalid data for catching validate rules
+OK: 'Bitte geben Sie eine E-Mail-Adresse oder eine internationale Telefonnummer ein' has been found in 'Log In'
+OK: 'Pflichtfeld' has been found in 'Log In'
+Log in vith valid data
+go to my data page
+edit user name
+check out new name
+return old name
+OK: Element 'Maine Daten' include 'Geburtsdatum' by selector 'tag_name'
+edit birthdate
+edit day
+edit month
+edit year
+return old date value
+go to index page
+find and click 'Add new vehicle'
+OK: Element 'ip' include 'Zu meinem Fahrzeug' by selector 'tag_name'
+add VIN code and folow instruction
+check out new car
+Adding car's numer
+check out car's data
+delete car
+go to user data
+delete user

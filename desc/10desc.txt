@@ -1,0 +1,50 @@
+Testing MM Connect: # Türfernschließung und -entriegelung  # Geographische Fahrzeugüberwachung
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+OK: 'Für die Vernetzung mit Ihrem Mercedes-Benz.' has been found in 'mm connect'
+OK: 'Sie finden diese in den Nutzungsbedingungen im Abschnitt „Mercedes me connect Diensteübersicht“.' has been found in 'mm connect'
+OK: 'Türfernschließung und -entriegelung' has been found in 'mm connect'
+click on Türfernschließung und -entriegelung
+title is Türfernschließung und -entriegelung >> Mercedes me Portal
+OK: Element 'Tu-e' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: In 'Tu-e' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Fenstersteuerung.jpg'
+OK: In 'Tu-e' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Fenstersteuerung.jpg'
+OK: Element 'Tu-e' include 'Häufig gestellte Fragen' by selector 'link_text'
+OK: Element 'Tu-e' include 'Programmierung Standheizung' by selector 'link_text'
+OK: Element 'Tu-e' include 'Fernabfrage Fahrzeugstatus' by selector 'link_text'
+OK: Element 'Tu-e' include 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup' by selector 'link_text'
+OK: 'Türfernschließung und -entriegelung.' has been found in 'Tu-e'
+OK: 'Unterwegs alles sicher im Griff.' has been found in 'Tu-e'
+OK: 'Die Vorteile im Überblick:' has been found in 'Tu-e'
+Click on 'Häufig gestellte Fragen'
+title is 'Häufig gestellte Fragen >> Mercedes me Portal'
+Click on 'Programmierung Standheizung'
+title is 'Programmierung Standheizung >> Mercedes me Portal'
+Click on 'Fernabfrage Fahrzeugstatus'
+title is 'Fernabfrage Fahrzeugstatus >> Mercedes me Portal'
+Click on 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup'
+title is 'Nutzungsbedingungen >> Mercedes me Portal'
+zurück
+OK: 'Geographische Fahrzeugüberwachung' has been found in 'mm connect'
+click on Geographische Fahrzeugüberwachung
+title is Geographische Fahrzeugüberwachung >> Mercedes me Portal
+OK: Element 'mm_GF' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: In 'mm_GF' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Fahrzeugueberwachung.jpg'
+OK: In 'mm_GF' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Fahrzeugueberwachung.jpg'
+OK: Element 'mm_GF' include 'Häufig gestellte Fragen' by selector 'link_text'
+OK: Element 'mm_GF' include 'Fahrzeugortung' by selector 'link_text'
+OK: Element 'mm_GF' include 'Fahrzeugstandort' by selector 'link_text'
+OK: Element 'mm_GF' include 'Nutzungsbedingungen: Ortungsdienste/Fahrzeug-Monitoring' by selector 'link_text'
+OK: 'Geographische Fahrzeugüberwachung.' has been found in 'mm_GF'
+OK: 'Definierter Freiraum.' has been found in 'mm_GF'
+OK: 'Die Vorteile im Überblick:' has been found in 'mm_GF'
+Click on 'Häufig gestellte Fragen'
+title is 'Häufig gestellte Fragen >> Mercedes me Portal'
+Click on 'Fahrzeugortung'
+title is 'Fahrzeugortung >> Mercedes me Portal'
+Click on 'Fahrzeugstandort'
+title is 'Fahrzeugstandort >> Mercedes me Portal'
+Click on 'Nutzungsbedingungen: Ortungsdienste/Fahrzeug-Monitoring'
+title is 'Nutzungsbedingungen >> Mercedes me Portal'

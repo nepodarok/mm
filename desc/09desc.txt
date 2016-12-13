@@ -1,0 +1,50 @@
+Testing MM Connect: # Programmierung Standheizung  # Programmierung Ladeeinstellungen und Vorklimatisierung
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+OK: 'Für die Vernetzung mit Ihrem Mercedes-Benz.' has been found in 'mm connect'
+OK: 'Sie finden diese in den Nutzungsbedingungen im Abschnitt „Mercedes me connect Diensteübersicht“.' has been found in 'mm connect'
+OK: 'Programmierung Standheizung' has been found in 'mm connect'
+click on Programmierung Standheizung
+title is Programmierung Standheizung >> Mercedes me Portal
+OK: Element 'mm_ps' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: In 'mm_ps' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Thermometer.jpg'
+OK: In 'mm_ps' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Thermometer.jpg'
+OK: Element 'mm_ps' include 'Häufig gestellte Fragen' by selector 'link_text'
+OK: Element 'mm_ps' include 'Türfernschließung und -entriegelung' by selector 'link_text'
+OK: Element 'mm_ps' include 'Fernabfrage Fahrzeugstatus' by selector 'link_text'
+OK: Element 'mm_ps' include 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup' by selector 'link_text'
+OK: 'Programmierung Standheizung/-belüftung.' has been found in 'mm_ps'
+OK: 'Von überall das Fahrzeug vorwärmen oder lüften.' has been found in 'mm_ps'
+OK: 'Verfügbarkeit der Mercedes me connect Dienste.' has been found in 'mm_ps'
+Click on 'Häufig gestellte Fragen'
+title is 'Häufig gestellte Fragen >> Mercedes me Portal'
+Click on 'Türfernschließung und -entriegelung'
+title is 'Türfernschließung und -entriegelung >> Mercedes me Portal'
+Click on 'Fernabfrage Fahrzeugstatus'
+title is 'Fernabfrage Fahrzeugstatus >> Mercedes me Portal'
+Click on 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup'
+title is 'Nutzungsbedingungen >> Mercedes me Portal'
+zurück
+OK: 'Programmierung Ladeeinstellungen und Vorklimatisierung' has been found in 'mm connect'
+click on Programmierung Ladeeinstellungen und Vorklimatisierung
+title is Programmierung Ladeeinstellungen und Vorklimatisierung >> Mercedes me Portal
+OK: Element 'mm_PLuV' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: In 'mm_PLuV' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Programmierung_LuV.jpg'
+OK: In 'mm_PLuV' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Detailseite_Keyvisual_Programmierung_LuV.jpg'
+OK: Element 'mm_PLuV' include 'Häufig gestellte Fragen' by selector 'link_text'
+OK: Element 'mm_PLuV' include 'Fernabfrage Fahrzeugstatus' by selector 'link_text'
+OK: Element 'mm_PLuV' include 'Routenplanung' by selector 'link_text'
+OK: Element 'mm_PLuV' include 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup' by selector 'link_text'
+OK: 'Programmierung Ladeeinstellungen und Vorklimatisierung.*' has been found in 'mm_PLuV'
+OK: 'Die Fernbedienung für Ihr Fahrzeug.' has been found in 'mm_PLuV'
+OK: 'Ebenfalls interessant:' has been found in 'mm_PLuV'
+Click on 'Häufig gestellte Fragen'
+title is 'Häufig gestellte Fragen >> Mercedes me Portal'
+Click on 'Fernabfrage Fahrzeugstatus'
+title is 'Fernabfrage Fahrzeugstatus >> Mercedes me Portal'
+Click on 'Routenplanung'
+title is 'Routenplanung >> Mercedes me Portal'
+Click on 'Nutzungsbedingungen: Mercedes me connect Remotedienste/Fahrzeug-Setup'
+title is 'Nutzungsbedingungen >> Mercedes me Portal'

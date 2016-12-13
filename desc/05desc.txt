@@ -1,0 +1,32 @@
+Testing MM Connect: # Online Kartenupdate. # Digitaler Fahrzeugschlüssel
+
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+Log in
+Log in with user aleksandrnepodarok@gmail.com
+OK: In 'mm connect' has found pic_path: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mcmp/216x122/80/fbsMobil.png'
+OK: In 'mm connect' is displayed: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mcmp/216x122/80/fbsMobil.png'
+OK: 'Für die Vernetzung mit Ihrem Mercedes-Benz.' has been found in 'mm connect'
+OK: 'Mercedes me connect verbindet Sie mit Ihrem Fahrzeug und' has been found in 'mm connect'
+OK: 'Digitaler Fahrzeugschlüssel' has been found in 'mm connect'
+title is Digitaler Fahrzeugschlüssel im Smartphone >> Mercedes me Portal
+OK: Element 'DFiS' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: Element 'DFiS' include 'Häufig gestellte Fragen zum Digitalen Fahrzeugschlüssel' by selector 'link_text'
+OK: Element 'DFiS' include 'Nutzungsbedingungen für Mercedes me connect Navigationsdienste' by selector 'link_text'
+OK: Element 'DFiS' include 'Informationen zur Gerätekompatibilität' by selector 'link_text'
+OK: In 'mm connect' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Keyvisual_fbsMobil.jpg'
+OK: In 'mm connect' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Keyvisual_fbsMobil.jpg'
+check out SMS verification
+clost pop up
+step back - zuruk
+title is Online Kartenupdate >> Mercedes me Portal
+OK: Element 'Online Kartenupdate' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: In 'Online Kartenupdate' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Keyvisual_mapUpdate.jpg'
+OK: In 'Online Kartenupdate' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Keyvisual_mapUpdate.jpg'
+OK: 'Online Kartenupdate.' has been found in 'Online Kartenupdate'
+OK: 'Ebenfalls interessant:' has been found in 'Online Kartenupdate'
+OK: 'Häufig gestellte Fragen zu Online Kartenupdate' has been found in 'Online Kartenupdate'
+OK: 'Nutzungsbedingungen: Mercedes me connect Navigationsdienste' has been found in 'Online Kartenupdate'
+OK: 'Anleitung Online Kartenupdate (PDF)' has been found in 'Online Kartenupdate'

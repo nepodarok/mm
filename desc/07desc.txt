@@ -1,0 +1,27 @@
+Testing MM Connect: # Softwareaktualisierung
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+Log in
+Log in with user aleksandrnepodarok@gmail.com
+OK: 'Für die Vernetzung mit Ihrem Mercedes-Benz.' has been found in 'mm connect'
+OK: 'Sie finden diese in den Nutzungsbedingungen im Abschnitt „Mercedes me connect Diensteübersicht“.' has been found in 'mm connect'
+OK: 'Concierge-Service' has been found in 'mm connect'
+click on Concierge-Service
+title is Concierge-Service >> Mercedes me Portal
+OK: Element 'DFiS' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: In 'Concierge-Service' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/concierge_keyvisual.jpg'
+OK: In 'Concierge-Service' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/concierge_keyvisual.jpg'
+OK: Element 'Concierge-Service' include 'Häufig gestellte Fragen zum Mercedes me connect Concierge-Service' by selector 'link_text'
+OK: Element 'Concierge-Service' include 'Nutzungsbedingungen: Mercedes me connect Concierge-Service' by selector 'link_text'
+OK: 'Ebenfalls interessant:' has been found in 'Concierge-Service'
+OK: 'Mercedes me connect Concierge-Service*.' has been found in 'Concierge-Service'
+click on 'Häufig gestellte Fragen zum Mercedes me connect Concierge-Service'
+title is Häufig gestellte Fragen >> Mercedes me Portal
+title is Nutzungsbedingungen >> Mercedes me Portal
+OK: Element 'Nutzungsbedingungen' include 'Nutzungsbedingungen.' by selector 'tag_name'
+OK: 'Beinhaltete Dienste:' has been found in 'Nutzungsbedingungen'
+OK: 'Bitte vervollständigen Sie Ihre Daten.' has been found in 'Nutzungsbedingungen'
+click on button 'Profil vervollständigen'
+title is Angaben ergänzen >> Mercedes me Portal

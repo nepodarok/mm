@@ -1,0 +1,30 @@
+Testing MM Connect and Mercedes me connect freischalten
+
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+Log in
+Log in with user aleksandrnepodarok@gmail.com
+find and click 'Mercedes me connect'
+OK: 'Mercedes me connect' has been found in 'Mercedes me'
+OK: In 'Main page' has found pic_path: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mmp/450x252/connect_me.jpg'
+OK: In 'Main page' is displayed: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mmp/450x252/connect_me.jpg'
+title is Mercedes me connect >> Mercedes me Portal
+OK: In 'mmconnect' has found pic_path: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mcmp/1680x560/80/dynamicStageConnectCopyBlack.jpg'
+OK: In 'mmconnect' is displayed: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mcmp/1680x560/80/dynamicStageConnectCopyBlack.jpg'
+OK: 'Für die Vernetzung mit Ihrem Mercedes-Benz.' has been found in 'mm connect'
+OK: 'Mercedes me connect freischalten' has been found in 'mm connect'
+OK: In 'mmconnect' has found pic_path: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mcmp/216x122/80/connectActivation.png'
+OK: In 'mmconnect' is displayed: 'https://me.secure.mercedes-benz.com/resourceservice/tilesimages_mcmp/216x122/80/connectActivation.png'
+click on 'Mercedes me connect freischalten'
+title is Mercedes me connect freischalten >> Mercedes me Portal
+OK: In 'Mercedes me connect freischalten' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/keyvisual_connectMeAktivieren.jpg'
+OK: In 'Mercedes me connect freischalten' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/keyvisual_connectMeAktivieren.jpg'
+OK: 'Mercedes me connect freischalten.' has been found in 'mm connect'
+OK: 'So einfach stellen Sie die Verbindung her.' has been found in 'mm connect'
+title is Fahrzeug freischalten >> Mercedes me Portal
+zurück
+zurück
+clicking 'Business Services' and check out title
+title is 'connect business – a brand of Mercedes-Benz Connectivity Services | Home'

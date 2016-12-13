@@ -1,0 +1,19 @@
+Testing Register and Log in
+
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout with notification about new cookies has been found
+Start testing register
+OK: puts invalid data for catching validate rules
+OK: 'Please note the error messages in the fields marked in red and complete them correctly.' has been found in 'Register'
+OK: 'Please select an option' has been found in 'Form of address'
+OK: 'Mandatory field' has been found in 'Register'
+OK: 'Please confirm that you have read and agree to the legal information.' has been found in 'Register'
+finish testing Register
+start testing Log in
+testing invalid data
+OK: 'Mandatory field' has been found in 'Log in'
+Log in with user aleksandrnepodarok@gmail.com
+OK: 'Alex Fedorov' has been found in 'Index page'
+Title is 'Mercedes me Portal''

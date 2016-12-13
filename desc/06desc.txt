@@ -1,0 +1,27 @@
+Testing MM Connect: # Softwareaktualisierung
+By the end of test, you can see next result:
+
+Cookies has been cleared
+OK: Layout witn notification about new cookies has been found
+Log in
+Log in with user aleksandrnepodarok@gmail.com
+OK: 'Für die Vernetzung mit Ihrem Mercedes-Benz.' has been found in 'mm connect'
+OK: 'Softwareaktualisierung' has been found in 'mm connect'
+click on Softwareaktualisierung
+title is Mercedes me connect >> Mercedes me Portal
+OK: Element 'DFiS' include 'Informationen zu den Diensten.' by selector 'tag_name'
+OK: Element 'Softwareaktualisierung' include 'Häufig gestellte Fragen zur Softwareaktualisierung' by selector 'link_text'
+OK: Element 'Softwareaktualisierung' include 'Nutzungsbedingungen: Mercedes me connect Basisdienste' by selector 'link_text'
+OK: 'Immer auf dem neuesten Stand – dank der Mercedes me connect Softwareaktualisierung.' has been found in 'Softwareaktualisierung'
+OK: 'Ebenfalls interessant:' has been found in 'Softwareaktualisierung'
+OK: In 'Softwareaktualisierung' has found pic_path: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Keyvisual_remoteSoftwareUpdate.jpg'
+OK: In 'Softwareaktualisierung' is displayed: 'https://me-content.mercedes-benz.com/global/connectMeServiceInfopages/de_DE/images/BuB_Keyvisual_remoteSoftwareUpdate.jpg'
+click on 'Häufig gestellte Fragen zur Softwareaktualisierung'
+title is Häufig gestellte Fragen >> Mercedes me Portal
+click on 'Nutzungsbedingungen: Mercedes me connect Basisdienste'
+title is Nutzungsbedingungen >> Mercedes me Portal
+OK: Element 'Nutzungsbedingungen' include 'Nutzungsbedingungen.' by selector 'tag_name'
+OK: 'Beinhaltete Dienste:' has been found in 'Nutzungsbedingungen'
+OK: 'Bitte vervollständigen Sie Ihre Daten.' has been found in 'Nutzungsbedingungen'
+click on button 'Profil vervollständigen'
+title is Angaben ergänzen >> Mercedes me Portal
